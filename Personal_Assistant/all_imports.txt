@@ -1,0 +1,26 @@
+# built-in
+import subprocess (built-in)
+import webbrowser (built-in)
+import json (built-in)
+import datetime (built-in)
+import time (built-in)
+
+# pip install
+import pyjokes (pip install pyjokes)
+
+import pyttsx3 (pip install pyttsx3)
+
+import speech_recognition (pip install SpeechRecognition)
+
+import nltk (pip install nltk) - (NLTK Downloader)
+
+import requests (pip install requests)
+
+import wolframalpha (pip install wolframalpha)
+
+import wikipedia (pip install wikipedia)
+
+import pytz (pip install pytz)
+
+
+
